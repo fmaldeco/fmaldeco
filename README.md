@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Franco Aldeco!</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Python, MongoDB and Next.Js** 
+- 🌱 I’m currently learning **Typescript, Angular, Python, MongoDB and Next.Js** 
   
 
 - 💬 Ask me about **JavaScript, Express and React**  
